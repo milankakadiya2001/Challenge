@@ -1,0 +1,23 @@
+//App colors
+export const colors = {
+  white: '#FFFFFF',
+  black: '#000000',
+  primary: '#6231AD',
+  slateGray: '#727682',
+  paleLavender: '#EEEAF3',
+  charcoalGray: '#333333',
+  charcoal: '#4F4F4F',
+  primaryLight: '#F3F2F7',
+  yellow: '#FFA600',
+  lightYellow: '#FFD600',
+  lavenderBlue: '#F3F2F7',
+  lavender: '#D2BAF5',
+  pastelPurple: '#B296DC',
+  lightPurple: '#EFEAF7',
+  grayishBlue: '#B5C0C8',
+  darkPurple: '#452C55',
+  lightPink: '#F6F3FA',
+  pantone: '#FE4190',
+  success: '#2DABAD',
+  green: '#03A67F',
+};
